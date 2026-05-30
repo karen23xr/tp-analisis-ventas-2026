@@ -4,13 +4,17 @@
 **Cátedra:** Organización Empresarial  (Comision: 14)
 **Año:** 2026
 
-## Integrante
-- Karen Farias
+---
 
-## Descripción
-Análisis de datos de ventas comerciales.
+## Descripción del Proyecto
 
-## Estructura
-- /datos
-- /scripts
-- /resultados
+Este proyecto desarrolla un análisis de datos comerciales para el Escenario B del Trabajo Práctico.
+
+## Estructura del Repositorio
+
+- datos/ventas.csv
+- resultados/grafico_ventas.png
+- README.md
+- .gitignore
+
+## Indicadores
